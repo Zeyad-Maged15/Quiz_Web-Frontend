@@ -1,0 +1,1 @@
+Simple quiz first enter your username and the quiz has 3 questions and every qustion has 4 answers and the right answers are the first answer of every qustion and when you click submit the page wil give you alert with your username and the number of your correct answers that you submitted.
